@@ -1,5 +1,4 @@
 
-<img align="right" alt="AWS-DevOps" src="![image](https://user-images.githubusercontent.com/10224996/234296636-915d42dc-a42b-42e8-aabb-6c63a677cd3e.png)"
 <h1 align="center">Hi 👋, I'm Fatih Gumus</h1>
 <h3 align="center">A passionate AWS DevOps Trainee from Turkey</h3>
 
