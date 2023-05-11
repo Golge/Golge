@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Fatih Gumus</h1>
-<h3 align="center">A passionate AWS DevOps Trainee from Turkey. As a ICT teacher, I had the opportunity to continuously develop myself in the field of IT. Apart from my pedagogical aspects such as <em>education, curriculum, classroom management</em>, I have experience in <em>network installation, proxy server installation, web technologies and office programs</em>. Currently, I am working on <em>cloud technologies (AWS) and DevOps.</em> </h3>
+<h3 align="justify">A passionate AWS DevOps Trainee from Turkey. As a ICT teacher, I had the opportunity to continuously develop myself in the field of IT. Apart from my pedagogical aspects such as <em>education, curriculum, classroom management</em>, I have experience in <em>network installation, proxy server installation, web technologies and office programs</em>. Currently, I am working on <em>cloud technologies (AWS) and DevOps.</em> </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golge&label=Profile%20views&color=0e75b6&style=flat" alt="golge" /> </p>
