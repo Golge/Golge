@@ -1,6 +1,5 @@
 # <p align=center> Hi 👋, I'm Fatih Gumus </p>
-A passionate AWS DevOps Trainee from Turkey. As an ICT teacher, I had the opportunity to continuously develop myself in the field of IT. Apart from my pedagogical aspects such as education, curriculum, classroom management, I have experience in network installation, proxy server installation, web technologies and office programs. Currently, I am working on cloud technologies (AWS) and DevOps.<br><br>🔭 I’m currently working on AWS Cloud Services<br><br>🌱 I’m currently learning AWS, DevOps tools like Docker, Kubernetes<br><br>👯 I’m looking to collaborate on any WebApps<br><br>💬 Ask me about Linux, GitHub, AWS<br><br>📫 How to reach me fatihgumush@gmail.com<br><br>⚡ Extras I am a PADI OWSI/EFR Instructor
-
+A passionate AWS DevOps Trainee from Turkey. As an ICT teacher, I had the opportunity to continuously develop myself in the field of IT. Apart from my pedagogical aspects such as education, curriculum, classroom management, I have experience in network installation, proxy server installation, web technologies and office programs. Currently, I am working on cloud technologies (AWS) and DevOps.<br><p> You can find my GitHub Page over here: https://golge.github.io/</p><br>🔭 I’m currently working on AWS Cloud Services<br><br>🌱 I’m currently learning AWS, DevOps tools like Docker, Kubernetes<br><br>👯 I’m looking to collaborate on any WebApps<br><br>💬 Ask me about Linux, GitHub, AWS<br><br>📫 How to reach me fatihgumush@gmail.com<br><br>⚡ Extras I am a PADI OWSI/EFR Instructor
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/gumushfatih/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/fatih-gumus/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@medium.com/@fatihgumush) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/twitter.com/fatihgumush) 
@@ -17,5 +16,4 @@ A passionate AWS DevOps Trainee from Turkey. As an ICT teacher, I had the opport
 
 ---
 [![](https://visitcount.itsvg.in/api?id=golge&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
